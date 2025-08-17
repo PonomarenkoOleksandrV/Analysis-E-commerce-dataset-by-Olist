@@ -7,4 +7,6 @@ top_20_products--Filters only valid products with categories
 Calculates Revenue and number of units sold
 Shows top 20 by revenue
 
+
 chart(top_popular_products_per_category)--There are two categories of products that have the highest profit and number of products sold.
+monthly_sales -Calculated for each seller and each month the number of orders, average review score, and total sales
